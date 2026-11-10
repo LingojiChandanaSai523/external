@@ -1,1 +1,2 @@
 this is the write and read file
+in this you can also use read 
